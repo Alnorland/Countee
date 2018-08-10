@@ -1,0 +1,9 @@
+C:\Users\Alland\source\repos\Countee\Countee\bin\Debug\Countee.exe.config
+C:\Users\Alland\source\repos\Countee\Countee\bin\Debug\Countee.exe
+C:\Users\Alland\source\repos\Countee\Countee\bin\Debug\Countee.pdb
+C:\Users\Alland\source\repos\Countee\Countee\obj\Debug\Countee.Form1.resources
+C:\Users\Alland\source\repos\Countee\Countee\obj\Debug\Countee.Properties.Resources.resources
+C:\Users\Alland\source\repos\Countee\Countee\obj\Debug\Countee.csproj.GenerateResource.Cache
+C:\Users\Alland\source\repos\Countee\Countee\obj\Debug\Countee.csproj.CoreCompileInputs.cache
+C:\Users\Alland\source\repos\Countee\Countee\obj\Debug\Countee.exe
+C:\Users\Alland\source\repos\Countee\Countee\obj\Debug\Countee.pdb
